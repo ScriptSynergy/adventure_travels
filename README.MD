@@ -1,7 +1,5 @@
 # Adventure Travels
 
-## Screenshots:
-
 ![](/screenshots/ss_1.png)
 ![](/screenshots/ss_2.png)
 ![](/screenshots/ss_3.png)
